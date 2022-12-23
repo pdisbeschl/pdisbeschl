@@ -1,8 +1,8 @@
-👋 Hi, I’m @pdisbeschl - My name is Paul Disbeschl and this is my personal account
-💼 I'm a lecturer at Maastricht University's Department of Advanced Computing Sciences (DACS).
-👀 I’m interested in Operations Research, AI, Data Science, Machine Learning, and more!
-🌱 I’m currently learning how to improve my teaching skills.
-💞️ I’m looking to collaborate on... anything, let me know!
+👋 Hi, I’m @pdisbeschl - My name is Paul Disbeschl and this is my personal account <br>
+💼 I'm a lecturer at Maastricht University's Department of Advanced Computing Sciences (DACS).<br>
+👀 I’m interested in Operations Research, AI, Data Science, Machine Learning, and more!<br>
+🌱 I’m currently learning how to improve my teaching skills.<br>
+💞️ I’m looking to collaborate on... anything, let me know!<br>
 📫 How to reach me: my e-mail adress is my github username @ gmail.com. 
 
 <!---
