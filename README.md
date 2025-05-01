@@ -5,7 +5,7 @@
 👀 Interested in Operations Research, AI, Data Science, Machine Learning, and more!<br>
 🌱 Currently learning how to make home automation both budget and user-friendly, and learning Spanish.<br>
 🤝 I’m looking to collaborate on... anything, let me know!<br>
-📫 How to reach me: my e-mail adress is my github username @ a Google-based mail-platform.
+📫 How to reach me: my e-mail adress is my github username @ a Google-based mail platform.
 
 <!---
 pdisbeschl/pdisbeschl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
